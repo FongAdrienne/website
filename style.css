@@ -1,0 +1,55 @@
+.new-section {
+    background-color: #e4d4c8;
+    padding: 125px;
+    color: #ffffff;
+}
+
+.nav-menu {
+    text-align: left;
+    margin: 20px 20px 20px 30px;
+}
+
+.nav-spacing {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+body, h1, p, ul, ol, li {
+    margin: 0;
+    padding: 0;
+}
+
+.container1 {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.float-right {
+    float: right;
+    margin: 70px 0 20px 20px;
+}
+
+body {
+    font-family: EB Garamond;
+}
+
+.container2 {
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 25px;
+    vertical-align: top;
+}
+
+.left-column {
+    font-size: 15px;
+    white-space:  nowrap;
+}
