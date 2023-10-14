@@ -1,9 +1,3 @@
-.new-section {
-    background-color: #e4d4c8;
-    padding: 125px;
-    color: #ffffff;
-}
-
 .nav-menu {
     text-align: left;
     margin: 20px 20px 20px 30px;
@@ -50,6 +44,22 @@ th, td {
 }
 
 .left-column {
-    font-size: 15px;
+    font-size: 16px;
     white-space:  nowrap;
 }
+
+.logo-container {
+    display: flex; /* Use flexbox for horizontal alignment */
+    justify-content: center; /* Center logos horizontally */
+    align-items: center; /* Center logos vertically */
+    height: 200px; /* Set the container height as needed */
+    background-color:  #e4d4c8; /* Background color for the container */
+  }
+
+  .instagram-logo img {
+    width: 50px; /* Set the width of the Instagram logo image */
+  }
+
+  .linkedin-logo img {
+    width: 50px; /* Set the width of the Instagram logo image */
+  }
