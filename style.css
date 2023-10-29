@@ -48,7 +48,7 @@ body, h1, p, ul, ol, li, .container1, .text, .image {
 .container2 {
     max-width: 950px;
     margin: 0 auto;
-    font-size: 1.25rem;
+    font-size: 1.50rem;
 }
 
 table {
@@ -62,7 +62,7 @@ th, td {
 }
 
 .left-column {
-    font-size: 16px;
+    font-size: 1.25rem;
     white-space:  nowrap;
 }
 
