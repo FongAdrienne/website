@@ -28,10 +28,8 @@ body, h1, p, ul, ol, li, .container1, .text, .image {
 }
 
 .container1 {
-    overflow: hidden;
-    max-width: 1100px;
-    padding-left: 50px;
-    padding-bottom: 50px;
+   max-width: 950px;
+   margin: auto;
 }
 
 .text {
@@ -43,11 +41,12 @@ body, h1, p, ul, ol, li, .container1, .text, .image {
 .image {
     float: right;
     width: 50%;
+    height: auto;
 }
 
 .container2 {
     max-width: 950px;
-    margin: 0 auto;
+    margin: auto;
     font-size: 1.50rem;
 }
 
