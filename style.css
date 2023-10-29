@@ -28,7 +28,7 @@ body, h1, p, ul, ol, li, .container1, .text, .image {
 }
 
 .container1 {
-   max-width: 65%;
+   max-width: 950px;
    margin: auto;
 }
 
