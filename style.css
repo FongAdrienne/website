@@ -1,15 +1,21 @@
 
 .html {
-    font-size: 16px;
+    font-size: 24px;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+body, h1, p, ul, ol, li, .container1, .container2, .text, .image {
+    margin: 0;
+    padding: 0;
 }
 
 body {
     font-family: EB Garamond;
-}
-
-body, h1, p, ul, ol, li, .container1, .text, .image {
-    margin: 0;
-    padding: 0;
+    padding: 20px;
+    background: #f1f1f1;
 }
 
 .top-space {
@@ -17,8 +23,9 @@ body, h1, p, ul, ol, li, .container1, .text, .image {
 }
 
 .nav-menu {
-    text-align: left;
-    margin: 20px 20px 20px 30px;
+    text-align: right;
+    margin: 40px 70px 20px 30px;
+    font-weight: bolder;
 }
 
 .nav-spacing {
@@ -28,8 +35,8 @@ body, h1, p, ul, ol, li, .container1, .text, .image {
 }
 
 .container1 {
-   max-width: 950px;
-   margin: auto;
+    max-width: 950px;
+    margin: auto;
 }
 
 .text {
@@ -37,6 +44,12 @@ body, h1, p, ul, ol, li, .container1, .text, .image {
     font-size: 2rem; 
     width: 50%;
 }
+
+.indented-text {
+    padding-left: 200px; 
+    padding-right: 200px; 
+    font-size: 1rem;
+  }
 
 .image {
     float: right;
@@ -65,19 +78,66 @@ th, td {
     font-size: 1.25rem;
     white-space:  nowrap;
 }
-
-.logo-container {
-    display: flex; /* Use flexbox for horizontal alignment */
-    justify-content: center; /* Center logos horizontally */
-    align-items: center; /* Center logos vertically */
-    height: 200px; /* Set the container height as needed */
-    /*background-color:  #e4d4c8; */
-  }
-
-  .instagram-logo img {
+.instagram-logo img {
     width: 50px; /* Set the width of the Instagram logo image */
   }
 
-  .linkedin-logo img {
+.linkedin-logo img {
     width: 50px; /* Set the width of the Instagram logo image */
   }
+
+.header {
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+    background: whitesmoke;
+    font-weight: bolder;
+  }
+
+.footer {
+    padding: 60px;
+    text-align: center;
+    background: whitesmoke;
+    margin-top: 40px;
+  }
+
+.leftcolumn {
+    float: left;
+    width: 75%;
+    margin-top: 0;
+    padding-left: 60px;
+  }
+
+.rightcolumn {
+    float: left;
+    width: 25%;
+    margin-top: 0;
+    padding-left: 20px;
+    padding-right: 60px; 
+    }
+
+.card {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 1rem;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.blogimg {
+    padding: 20px;
+    align-items: center;
+    max-width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+.leftcolumn, .rightcolumn {
+    width: 100%;
+    padding: 0;
+    }
+}
