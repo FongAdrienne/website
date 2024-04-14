@@ -14,12 +14,11 @@ body, h1, p, ul, ol, li, .container1, .container2, .text, .image {
 
 body {
     font-family: EB Garamond;
-    padding: 20px;
     background: #f1f1f1;
 }
 
 .top-space {
-    margin-top: 150px;
+    margin-top: 100px;
 }
 
 .nav-menu {
@@ -31,59 +30,67 @@ body {
 .nav-spacing {
     padding: 8px;
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 .container1 {
-    max-width: 950px;
+    max-width: 1000px;
     margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 60px;
+}
+
+.content {
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .text {
     float: left;
     font-size: 2rem; 
-    width: 50%;
+    width: 45%;
 }
 
-.indented-text {
-    padding-left: 200px; 
-    padding-right: 200px; 
-    font-size: 1rem;
-  }
+.text p {
+    padding-bottom: 20px;
+}
 
 .image {
     float: right;
-    width: 50%;
-    height: auto;
-    max-width: 100%;
+    width: 55%;
 }
 
 .container2 {
     max-width: 950px;
     margin: auto;
     font-size: 1.50rem;
-}
-
-table {
-    width: 100%;
     border-collapse: collapse;
+    margin-bottom: 20px;
 }
 
-th, td {
-    padding: 25px;
+.container2 td {
+    padding: 10px;
     vertical-align: top;
 }
 
-.left-column {
+.container2 p {
+    margin-bottom: 30px;
+}
+
+.experienceheader {
     font-size: 1.25rem;
     white-space:  nowrap;
 }
+
 .instagram-logo img {
-    width: 50px; /* Set the width of the Instagram logo image */
+    width: 35px; /* Set the width of the Instagram logo image */
+    height: auto;
   }
 
 .linkedin-logo img {
-    width: 50px; /* Set the width of the Instagram logo image */
+    width: 35px; /* Set the width of the Instagram logo image */
+    height: auto;
   }
 
 .header {
@@ -95,10 +102,9 @@ th, td {
   }
 
 .footer {
-    padding: 60px;
+    padding: 100px;
     text-align: center;
     background: whitesmoke;
-    margin-top: 40px;
   }
 
 .leftcolumn {
@@ -110,16 +116,16 @@ th, td {
 
 .rightcolumn {
     float: left;
+    text-align: justify;
     width: 25%;
     margin-top: 0;
     padding-left: 20px;
-    padding-right: 60px; 
+    padding-right: 20px; 
     }
 
 .card {
     background-color: whitesmoke;
     padding: 20px;
-    margin-top: 20px;
     font-size: 1rem;
 }
 
@@ -131,13 +137,31 @@ th, td {
 
 .blogimg {
     padding: 20px;
-    align-items: center;
     max-width: 100%;
 }
 
-@media screen and (max-width: 800px) {
-.leftcolumn, .rightcolumn {
-    width: 100%;
-    padding: 0;
+@media screen and (max-width: 600px) {  
+    .leftcolumn, .rightcolumn {
+        width: 100%;
+        padding: 0;
     }
+
+    .text,
+    .image {
+        width: 100%;
+    }
+
+    .container2 td {
+        display: block;
+    }
+
+    .experienceheader {
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+
+      .nav-menu {
+        text-align: center;
+      }
+
 }
