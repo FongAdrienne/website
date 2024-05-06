@@ -141,6 +141,16 @@ body {
     max-width: 100%;
 }
 
+.article-text {
+    max-width: 950px;
+    margin: auto;
+    font-size: 1.25rem;
+}
+
+.article-text p {
+    padding-bottom: 20px;
+}
+
 @media screen and (max-width: 600px) {  
     .leftcolumn, .rightcolumn {
         width: 100%;
