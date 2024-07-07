@@ -67,9 +67,6 @@ permalink: /about/
                     <p><em>Golf.</em>  Knowledge + Time Spent.  Working on both.</p>
                  </td>
              </tr>
-
         </table>
 </body>
 
-
-[jekyll-organization]: https://github.com/jekyll
