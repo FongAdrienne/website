@@ -14,7 +14,7 @@ permalink: /about/
                 </div>
 
                 <div class="image">
-                     <img src="adrienne_fong_23.jpeg" alt="my headshot" style="max-width:100%;height:auto;">
+                     <img src="/assets/images/adrienne_fong_23.jpeg" alt="my headshot">
                 </div>
              </div>
         </div>
