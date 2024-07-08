@@ -2,6 +2,8 @@
 layout: page
 permalink: /about/
 ---
+
+<html>
 <body>
         <div class="container1">
 
@@ -68,4 +70,5 @@ permalink: /about/
              </tr>
         </table>
 </body>
+</html>
 
