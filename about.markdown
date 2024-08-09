@@ -3,10 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-<body>
-        <div>
-
             <div class="content">
 
                 <div class="text" >
@@ -18,7 +14,6 @@ permalink: /about/
                      <img src="/assets/images/adrienne_fong_23.jpeg" alt="my headshot">
                 </div>
              </div>
-        </div>
 
         <table>
             <tr>
@@ -70,5 +65,4 @@ permalink: /about/
                  </td>
              </tr>
         </table>
-</body>
 
