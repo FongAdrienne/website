@@ -3,19 +3,19 @@ layout: page
 title: About
 permalink: /about/
 ---
-            <div class="content">
 
+<body>
+            <div class="content">
                 <div class="text" >
                     <p>My name is <em>Adrienne Fong</em>.  I'm a Canadian finance professional currently living and working in Toronto.</p>
                     <p>Currently <em>juggling numbers</em> and <em>executing Finance strategy</em> at a technology start-up in the financial services space. </p> 
                 </div>
-
                 <div class="image">
                      <img src="/assets/images/adrienne_fong_23.jpeg" alt="my headshot">
                 </div>
              </div>
 
-        <table>
+     <table>
             <tr>
                 <td class="experienceheader"><em>About</em></td>
                 <td>
@@ -24,12 +24,11 @@ permalink: /about/
                     <p>What do I like most about work?  Inspiring colleagues, intereresting work, and a culture that encourages continuous learning and improvement. </p>       
                 </td>
             </tr>
-            <tr>
                 <td class="experienceheader"><em>Areas of Expertise</em></td>
                 <td>Raising Financing <br> Accounting & Finance<br>Regulatory Strategy<br>Project Management<br>Tax</td>
              </tr>
             <tr>
-                <td class="experienceheader"><em>Recent Experience</em>
+                <td class="experienceheader"><em>Recent Experience</em></td>
                 <td>
                     <p><em>VP Projects & Implementation</em> | technology start-up </p>
                     <p>Reporting to the CEO, I identify what needs to get done and the constraints in the way, why it needs to get done, and then go make it happen.  I work collaboratively with all teams - legal, compliance, product, engineering - to design, structure, and execute on Finance strategy.  As a generalist, I am proficient in Excel but can also draft written memos on technical matters such as accounting policy and tax.  Recent projects include: financing round support, internal controls design and documentation, investor reporting, and establishing tax policies for the first time. </p>
@@ -39,7 +38,7 @@ permalink: /about/
                     <p>Responsible for corporate accounting, financial reporting & MD&A preparation, and managing external auditors, treasury & reporting to lenders.</p>
                     <p><em>Manager</em> | Deloitte LLP </p>
                     <p>Progressing from Staff Accountant to Manager, planned, led, and executed audits of private and public companies across sectors such as telecom, technology, and manufacturing.</p>       
-                    </td>
+                </td>
             </tr>
             <tr>
                 <td class="experienceheader"><em>Professional Designations</em></td>
@@ -64,5 +63,6 @@ permalink: /about/
                     <p><em>Golf.</em>  Knowledge + Time Spent.  Working on both.</p>
                  </td>
              </tr>
-        </table>
+    </table>
+</body>
 
