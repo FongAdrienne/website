@@ -24,6 +24,7 @@ permalink: /about/
                     <p>What do I like most about work?  Inspiring colleagues, intereresting work, and a culture that encourages continuous learning and improvement. </p>       
                 </td>
             </tr>
+            <tr>
                 <td class="experienceheader"><em>Areas of Expertise</em></td>
                 <td>Raising Financing <br> Accounting & Finance<br>Regulatory Strategy<br>Project Management<br>Tax</td>
              </tr>
