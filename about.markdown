@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <body>
-        <div class="container1">
+        <div>
 
             <div class="content">
 
@@ -20,7 +20,7 @@ permalink: /about/
              </div>
         </div>
 
-        <table class="container2">
+        <table>
             <tr>
                 <td class="experienceheader"><em>About</em></td>
                 <td>
