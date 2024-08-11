@@ -17,7 +17,7 @@ permalink: /about/
 
      <table>
             <tr>
-                <td style="vertical-align: top;"><em>About</em></td>
+                <td style="vertical-align: top; white-space: nowrap;"><em>About</em></td>
                 <td>
                     <p>I'm an experienced professional with over 20 years of work experience.</p>
                     <p>I thrive when I'm working on the future, on human centric problems, where strong communication skills are needed. </p>
@@ -25,11 +25,11 @@ permalink: /about/
                 </td>
             </tr>
             <tr>
-                <td style="vertical-align: top;"><em>Areas of Expertise</em></td>
+                <td style="vertical-align: top; white-space: nowrap;"><em>Areas of Expertise</em></td>
                 <td>Raising Financing <br> Accounting & Finance<br>Regulatory Strategy<br>Project Management<br>Tax</td>
              </tr>
             <tr>
-                <td class="experienceheader"><em>Recent Experience</em></td>
+                <td style="vertical-align: top; white-space: nowrap;"><em>Recent Experience</em></td>
                 <td>
                     <p><em>VP Projects & Implementation</em> | technology start-up </p>
                     <p>Reporting to the CEO, I identify what needs to get done and the constraints in the way, why it needs to get done, and then go make it happen.  I work collaboratively with all teams - legal, compliance, product, engineering - to design, structure, and execute on Finance strategy.  As a generalist, I am proficient in Excel but can also draft written memos on technical matters such as accounting policy and tax.  Recent projects include: financing round support, internal controls design and documentation, investor reporting, and establishing tax policies for the first time. </p>
