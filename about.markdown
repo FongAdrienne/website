@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<!-- # About -->
 
 <body>
             <div style="font-size: 32px;">
@@ -18,7 +17,7 @@ permalink: /about/
 
      <table>
             <tr>
-                <td class="experienceheader"><em>About</em></td>
+                <td style="vertical-align: top;"><em>About</em></td>
                 <td>
                     <p>I'm an experienced professional with over 20 years of work experience.</p>
                     <p>I thrive when I'm working on the future, on human centric problems, where strong communication skills are needed. </p>
@@ -26,7 +25,7 @@ permalink: /about/
                 </td>
             </tr>
             <tr>
-                <td class="experienceheader"><em>Areas of Expertise</em></td>
+                <td style="vertical-align: top;""><em>Areas of Expertise</em></td>
                 <td>Raising Financing <br> Accounting & Finance<br>Regulatory Strategy<br>Project Management<br>Tax</td>
              </tr>
             <tr>
