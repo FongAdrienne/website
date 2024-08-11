@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+<!-- # About -->
 
 <body>
             <div style="font-size: 32px;">
