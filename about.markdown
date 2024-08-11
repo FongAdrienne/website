@@ -57,7 +57,7 @@ permalink: /about/
                 </td>
             </tr>
             <tr>
-                <td style="vertical-align; top; white-space: nowrap;"><em>Current Experiments</em></td>
+                <td style="vertical-align: top; white-space: nowrap;"><em>Current Experiments</em></td>
                 <td>
                     <p><em>This Website.</em> With no prior programming experience, I coded this website using HTML and CSS using a textbook borrowed from the library, YouTube tutorials, ChatGPT, and <em>a lot of trial and error. </em> </p>
                     <p><em>Teaching.</em> Developing 'Finance and Capital' workshop materials for Seneca College. </p>
