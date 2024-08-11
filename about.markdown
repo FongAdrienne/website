@@ -42,14 +42,14 @@ permalink: /about/
                 </td>
             </tr>
             <tr>
-                <td class="experienceheader"><em>Professional Designations</em></td>
+                <td style="vertical-align: top; white-space: nowrap;"><em>Professional Designations</em></td>
                 <td>
                 <p>CPA, CA   |  <em>Chartered Professional Accountants of Ontario</em> </p>
                 <p>CFA   |   <em>CFA Institute</em></p>
                 </td>
             </tr>
             <tr>
-                <td class="experienceheader"><em>Education</em></td>
+                <td style="vertical-align: top; white-space: nowrap;"><em>Education</em></td>
                 <td>
                 <p><em>Masters of Accounting </em> | University of Waterloo </p>
                 <p><em>Bachelor of Arts, Honours Chartered Accountancy Studies Co-Op </em> | University of Waterloo </p>
@@ -57,7 +57,7 @@ permalink: /about/
                 </td>
             </tr>
             <tr>
-                <td class="experienceheader"><em>Current Experiments</em></td>
+                <td style="vertical-align; top; white-space: nowrap;"><em>Current Experiments</em></td>
                 <td>
                     <p><em>This Website.</em> With no prior programming experience, I coded this website using HTML and CSS using a textbook borrowed from the library, YouTube tutorials, ChatGPT, and <em>a lot of trial and error. </em> </p>
                     <p><em>Teaching.</em> Developing 'Finance and Capital' workshop materials for Seneca College. </p>
