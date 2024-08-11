@@ -11,7 +11,7 @@ permalink: /about/
                     <p>Currently <em>juggling numbers</em> and <em>executing Finance strategy</em> at a technology start-up in the financial services space. </p> 
                 </div>
                 <div>
-                     <img src="/assets/images/adrienne_fong_23.jpeg" alt="my headshot" style="float: right;">
+                     <img src="/assets/images/adrienne_fong_23.jpeg" alt="my headshot" style="float: right; margin-bottom: 30px;">
                 </div>
              </div>
 
