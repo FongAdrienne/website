@@ -25,7 +25,7 @@ permalink: /about/
                 </td>
             </tr>
             <tr>
-                <td style="vertical-align: top;""><em>Areas of Expertise</em></td>
+                <td style="vertical-align: top;"><em>Areas of Expertise</em></td>
                 <td>Raising Financing <br> Accounting & Finance<br>Regulatory Strategy<br>Project Management<br>Tax</td>
              </tr>
             <tr>
