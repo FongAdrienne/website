@@ -5,12 +5,12 @@ permalink: /about/
 ---
 
 <body>
-            <div class="large-font">
-                <div class="text">
+            <div style="font-size: 20px;">
+                <div>
                     <p>My name is <em>Adrienne Fong</em>.  I'm a Canadian finance professional currently living and working in Toronto.</p>
                     <p>Currently <em>juggling numbers</em> and <em>executing Finance strategy</em> at a technology start-up in the financial services space. </p> 
                 </div>
-                <div class="image">
+                <div>
                      <img src="/assets/images/adrienne_fong_23.jpeg" alt="my headshot">
                 </div>
              </div>
