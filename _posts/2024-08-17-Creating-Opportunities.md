@@ -4,7 +4,7 @@ title:  "Unexpected Behaviour, Creating Opportunities for Others and the Busines
 date:   2024-08-17 13:45:19 -0400
 categories: jekyll update
 ---
-## *"People can change their own lives....They're not asking for charity, charity is no solution to poverty"* ~ Dr. Muhammad Yunus 
+### *"People can change their own lives....They're not asking for charity, charity is no solution to poverty"* ~ Dr. Muhammad Yunus 
 
 Earlier this month, Dr. Muhammad Yunus was installed to head an interim government in Bangladesh, to try to restore peace and steady the ship during a tumultuous time.  I remembered reading about him as a teenager, when he won the Nobel Peace Prize in 2006 for his and Grameen Bank's work in providing small loans to the poor, mostly women, to help them start businesses and eventually lift themselves out of poverty.  
 
