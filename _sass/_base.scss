@@ -26,6 +26,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  text-align: justify;
 }
 
 
@@ -188,7 +189,6 @@ pre {
     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
     padding-right: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
-    white-space: normal;
   }
 }
 
