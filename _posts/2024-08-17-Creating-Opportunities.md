@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unexpected Behavour, Creating Opportunities for Others and the Business Models that can arise from it"
+title:  "Unexpected Behaviour, Creating Opportunities for Others and the Business Models that can arise from it"
 date:   2024-08-17 13:45:19 -0400
 categories: jekyll update
 ---
