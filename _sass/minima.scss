@@ -37,6 +37,9 @@ $on-laptop:        800px !default;
   @media screen and (max-width: $device) {
     @content;
   }
+
+  @include media-query($on-palm) {
+    white-space: normal;
 }
 
 @mixin relative-font-size($ratio) {
