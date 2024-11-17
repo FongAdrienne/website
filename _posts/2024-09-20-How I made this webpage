@@ -4,7 +4,7 @@ title:  "How I made a website"
 date:   2024-09-20 
 categories: project
 ---
-I knew nothing about computer programming.  I set out on a journey to build a personal webpage at nights and on weekends. I climbed what felt like a mountain, catching some breathtaking views en route, but also twisting my ankle along the way and even going back down to base camp and starting again.   
+##I knew nothing about computer programming.  I set out on a journey to build a personal webpage at nights and on weekends. I climbed what felt like a mountain, catching some breathtaking views en route, but also twisting my ankle along the way and even going back down to base camp and starting again.   
 
 First, I packed my climbing pack with 'why' I was doing this.  I wanted a platform to share what I see, and design it to my style.  I also didn't want to pay annual fees for a website hosting service like Squarespace or Wix because my finance tax brain knew that the expense is not deductible because it's not "on account of income" (I currently have no intention of earning income from this).  Throughout my journey, when it got frustrating, I had to reach into my pack to remind myself why I was doing this.
 
@@ -16,4 +16,4 @@ I stumbled over tree roots on the journey up, twisting my ankle several times al
  
 But midway up the mountain, I encountered a major setback when I realized that adding multiple pages behind the index page was going to be frustrating.  I make a tough call to go back down the mountain and start again.  I turned to **Jekyll**, a static site generator.  I fumbled through the installation process.  I watched **Youtube videos**, [Up and Running with Github Pages](https://www.youtube.com/watch?v=EvYs1idcGnM&list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq&index=4), multiple times.   I'm only now starting to learn to customize the template theme to my liking.  
 
-I haven't reached the mountain peak.  Learning hard things feels hard.  I have many improvements I'd like to make.  While it's important to keep climbing, I also remind myself to stop and look back and see how far I've come and appreciate how much I've learned.  
+I haven't reached the mountain peak.  I'm currently struggling with some versioning issues with my local file and github pages.  Learning hard things feels hard.  I have many improvements I'd like to make.  While it's important to keep climbing, I also remind myself to stop and look back and see how far I've come and appreciate how much I've learned.  
